@@ -1,0 +1,6 @@
+{
+  "packageRules": [{
+    "matchPackageNames": ["babel-preset-react-app"],
+    "changelogUrl": "https://github.com/facebook/create-react-app/releases"
+  }]
+}
