@@ -1,6 +1,6 @@
 {
   "packageRules": [{
-    "matchPackageNames": ["zone.js"],
-    "changelogUrl": "https://github.com/angular/angular/blob/master/packages/zone.js/CHANGELOG.md"
+    "matchPackageNames": ["django-storages"],
+    "changelogUrl": "https://github.com/jschneier/django-storages/blob/master/CHANGELOG.rst"
   }]
 }
